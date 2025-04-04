@@ -4,4 +4,4 @@ A powerful and responsive **Expense Tracker** that categorizes your expenses wit
 
 ## 📸 Screenshots
 ### Light Mode 🌞
-![Light Mode](assets/images/main_screen.png)
+![Light Mode]("D:\flutterProjects_19_8_24\flutter_sessions\expenses_tracker\assets\images\main_screen.png")
