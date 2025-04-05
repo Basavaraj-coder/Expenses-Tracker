@@ -29,9 +29,10 @@ A powerful and responsive **Expense Tracker** that categorizes your expenses wit
 ### Added Expense
 ![IMG-20250405-WA0052](https://github.com/user-attachments/assets/25ed6565-404d-40eb-87ab-465d5e99c54c)
 
+### deleting expense using dismissible widget
+![WhatsApp Image 2025-04-05 at 15 50 36_8abdbec7](https://github.com/user-attachments/assets/85932b2a-bc49-40ca-b543-7158dc7bcc68)
 
-
-
+![WhatsApp Image 2025-04-05 at 15 50 36_36794f9a](https://github.com/user-attachments/assets/9e586e8c-630d-4b37-a75c-03ac87c64a7e)
 
 
 
